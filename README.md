@@ -27,3 +27,15 @@ Run ploty in jupyter notebook in the case of online and offline.
 - Interacting with the plots
   - Creating Dropdown Menu in Plotly
   - Adding Buttons to the plot
+
+## 2.01.Line_Chart [Colab](https://colab.research.google.com/github/RifatMuhtasim/Plotly_for_Data_Science/blob/master/2.01.Line_Chart.ipynb)
+
+## 22.02.Bar_Chart [Colab](https://colab.research.google.com/github/RifatMuhtasim/Plotly_for_Data_Science/blob/master/2.02.Bar_Chart.ipynb)
+
+## 2.03.Histogram_Chart [Colab](https://colab.research.google.com/github/RifatMuhtasim/Plotly_for_Data_Science/blob/master/2.03.Histogram_Chart.ipynb)
+
+## 2.04.Scatter_Plot [Colab](https://colab.research.google.com/github/RifatMuhtasim/Plotly_for_Data_Science/blob/master/2.04.Scatter_Plot.ipynb)
+
+## 2.05.Pie_Chart [Colab](https://colab.research.google.com/github/RifatMuhtasim/Plotly_for_Data_Science/blob/master/2.05.Pie_Chart.ipynb)
+
+## 2.06.Box_And_Violin_Plot [Colab](https://colab.research.google.com/github/RifatMuhtasim/Plotly_for_Data_Science/blob/master/2.06.Box_And_Violin_Plot.ipynb)
