@@ -1,5 +1,8 @@
 # Plotly for Data Science
-Tutorial [Click Here](https://drive.google.com/file/d/1KW975FyaM7l-91sxmE3OX3egi_UMh2ot/view)
+- Tutorial [Click Here](https://drive.google.com/file/d/1KW975FyaM7l-91sxmE3OX3egi_UMh2ot/view)
+- Plotly Python Graph: https://plotly.com/python/
+- Plotly Express: https://plotly.com/python-api-reference/plotly.express.html
+- Plotly Graph Objects: https://plotly.com/python/reference/index/
 
 ## 1.01.Run_Plotly_Express [Colab](https://colab.research.google.com/github/RifatMuhtasim/Plotly_for_Data_Science/blob/master/1.01.Run_Plotly_Express.ipynb) 
 Run ploty in jupyter notebook in the case of online and offline.
